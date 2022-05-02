@@ -1,5 +1,11 @@
-To run the code, you need to have at least Python 3.7 or later versions.  
+# BANADA
+
+A PyTorch implementation for the paper below:   
+**Who Are the Evil Backstage Manipulators: Boosting Graph Attention Networks against Deep Fraudsters**.
+
+
 ## Running BANADA
+To run the code, you need to have at least Python 3.7 or later versions.  
 1.In BANADA/data directory，run`unzip BUPT.zip` and `unzip Sichuan.zip` to unzip the datasets;  
 2.Run `python data_process.py` to generate Sichuan and BUPT dataset in DGL;  
 3.Run `python main.py` to run BANADA with default settings.  
