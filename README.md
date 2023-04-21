@@ -34,8 +34,8 @@ python Player2Vec_main.py
   title={Who Are the Evil Backstage Manipulators: Boosting Graph Attention Networks against Deep Fraudsters},
   author={Hu, Xinxin and Chen, Hongchang and Liu, Shuxin and Jiang, Haocong and Wang, Kai and Wang, Yahui},
   journal={Computer Networks},
-  volume={xxx},
-  pages={xxx--xxx},
+  volume={227},
+  pages={1-11},
   year={2023},
   publisher={Elsevier}
 }
